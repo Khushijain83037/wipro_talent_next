@@ -54,7 +54,7 @@ The repository is organized into modules, each focusing on a specific area of th
 
 To strengthen logical thinking and problem-solving skills, this repository includes links to **LeetCode** problems solved alongside the Java Full Stack training.
 
-🔗 **LeetCode Profile:** [View My Solutions]([https://leetcode.com/your-username](https://leetcode.com/u/khushijain9919))
+🔗 **LeetCode Profile:** https://leetcode.com/u/khushijain9919
 
 ---
 
